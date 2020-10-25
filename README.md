@@ -25,7 +25,7 @@ We will be using the following packages:
 | Packages  | Version  |
 |---|---|
 | Python  | 3.8  |
-|  TensorFlow | 2.x  |
+|  TensorFlow | 2.3  |
 | NVIDIA CUDA Toolkit (If using GPU)  | 10.1  |
 | NVIDIA cuDNN (if using GPU)  | 7.6  |
 
@@ -46,7 +46,7 @@ pip install tensorflow scikit-learn matplotlib pandas
 
 # Results
 
-#### CNN model was trained on InceptionV3 model on 20 epochs
+#### InceptionV3 model was trained and evaluated on 20 epochs
 
 | Metric  | Accuracy  |  Loss |
 |---|---|---|
